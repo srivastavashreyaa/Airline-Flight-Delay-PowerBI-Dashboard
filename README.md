@@ -52,8 +52,3 @@ Power BI Desktop, Power Query, DAX, data modeling (star schema)
 2. Open `Airline_Flight_Delay_Dashboard.pbit` in Power BI Desktop.
 3. If it asks for the data files, go to **Transform data → Data source settings** and point each source to your downloaded CSV files, then click **Refresh**.
 
-## Team
-
-Shreya Srivastava, Yash Chauhan, Tanishka Jain
-Business Intelligence and Analytics (21CSE421T), SRM Institute of Science and Technology
-Faculty guide: Dr. Kavitha P M
